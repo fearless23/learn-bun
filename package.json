@@ -1,0 +1,12 @@
+{
+  "name": "learn-bun",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "^0.2.0",
+    "rome": "^11.0.0"
+  },
+  "scripts": {
+    "start":"bun index.ts --watch"
+  }
+}
